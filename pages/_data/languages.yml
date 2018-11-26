@@ -17,3 +17,6 @@ it_IT:
 ja_JP:
   name: 日本語
   disqus_lang: jp
+kr_KR:
+  name: 한국어
+  disqus_lang: kr
